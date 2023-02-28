@@ -6,13 +6,15 @@
 
 ## Live Links
 
-[Backend](https://project-api-9ejh.onrender.com)
+[Backend](https://project-api-9ejh.onrender.com) <br>
 [Frontend](https://app.gabrielroyce.com/project)
 
 ## GitHub Links
 
-[Backend](https://github.com/garoy001/project_api)
+[Backend](https://github.com/garoy001/project_api)<br>
 [Frontend](https://github.com/garoy001/app-site-frontend/tree/main/src/applications/project_creator)
+
+---
 
 ## Technology Used
 
@@ -23,13 +25,15 @@
 - Bootstrap
 - gh pages
 
-  **Backend**
+**Backend**
 
 - Python
 - Django
 - Gunicorn
 - Django Rest Framework
 - Dj Database URL
+
+---
 
 ## Models
 
