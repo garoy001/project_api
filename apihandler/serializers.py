@@ -8,4 +8,4 @@ class ProjectSerializer(serializers.HyperlinkedModelSerializer):
         # The model it will serialize
         model = Project
         # the fields that should be included in the serialized output
-        fields = ['title', 'img', 'gitlink', 'livelink']
+        fields = ['id','title', 'img', 'gitlink', 'livelink']
